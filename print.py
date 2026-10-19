@@ -7,3 +7,4 @@ print("The value of b is:", b)
 print("The value of c is:", c)
 d = a+b+c
 print("The sum of a, b and c is:", d)
+print("The average of a, b and c is:", d/3)
